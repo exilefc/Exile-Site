@@ -78,7 +78,7 @@
         {
             "location": "/beginners/",
             "text": "",
-            "title": "Beginner's Guide"
+            "title": "\u2b50 BEGINNER'S GUIDE"
         },
         {
             "location": "/resources_battle/",
@@ -87,8 +87,13 @@
         },
         {
             "location": "/resources_nonbattle/",
-            "text": "",
+            "text": "Helpful Links\n\n\n\n\nLodestone:\n \nhttp://eu.finalfantasyxiv.com/lodestone/\n\n\nServer status: http://arrstatus.com/\n\n\nReset timers: http://www.xenoveritas.org/static/ffxiv/timer.html\n\n\nFFXIV Reddit: https://www.reddit.com/r/ffxiv",
             "title": "STORMBLOOD - Non-Battle"
+        },
+        {
+            "location": "/resources_nonbattle/#helpful-links",
+            "text": "Lodestone:   http://eu.finalfantasyxiv.com/lodestone/  Server status: http://arrstatus.com/  Reset timers: http://www.xenoveritas.org/static/ffxiv/timer.html  FFXIV Reddit: https://www.reddit.com/r/ffxiv",
+            "title": "Helpful Links"
         },
         {
             "location": "/resources_archives/",
@@ -99,6 +104,21 @@
             "location": "/resources_collections/",
             "text": "",
             "title": "Collection Guides"
+        },
+        {
+            "location": "/resources_links/",
+            "text": "News and Server\n\n\n\n\nLodestone:\n \nhttp://eu.finalfantasyxiv.com/lodestone/\n\n\nServer status: http://arrstatus.com/\n\n\nReset timers: http://www.xenoveritas.org/static/ffxiv/timer.html\n\n\n\n\nCommunities\n\n\n\n\nFFXIV Reddit: https://www.reddit.com/r/ffxiv\n\n\nExile Facebook\n\n\nExile Discord\n\n\nr/FFXIV Discord\n\n\nThe Balance Discord",
+            "title": "Links"
+        },
+        {
+            "location": "/resources_links/#news-and-server",
+            "text": "Lodestone:   http://eu.finalfantasyxiv.com/lodestone/  Server status: http://arrstatus.com/  Reset timers: http://www.xenoveritas.org/static/ffxiv/timer.html",
+            "title": "News and Server"
+        },
+        {
+            "location": "/resources_links/#communities",
+            "text": "FFXIV Reddit: https://www.reddit.com/r/ffxiv  Exile Facebook  Exile Discord  r/FFXIV Discord  The Balance Discord",
+            "title": "Communities"
         },
         {
             "location": "/contact/",
@@ -112,17 +132,17 @@
         },
         {
             "location": "/discord/",
-            "text": "",
+            "text": "Please wait, redirecting...",
             "title": "Discord"
         },
         {
             "location": "/facebook/",
-            "text": "",
+            "text": "Please wait, redirecting...",
             "title": "Facebook"
         },
         {
             "location": "/tonberry/",
-            "text": "",
+            "text": "Please wait, redirecting...",
             "title": "<iframe style=\"margin-top:-5px; margin-bottom:-5px;\" width=\"100%\" height=\"44\" src=\"https://arrstatus.com/embed/pages/embed_10.html\" frameborder=\"0\" scrolling=\"no\"></iframe>"
         }
     ]
